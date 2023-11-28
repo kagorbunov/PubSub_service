@@ -1,0 +1,9 @@
+.idea
+.vscode
+bin/
+client/client
+test/
+*.DS_Store
+
+/gateway
+/vendor
